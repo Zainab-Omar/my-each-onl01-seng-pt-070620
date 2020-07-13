@@ -8,5 +8,5 @@ end
 array
 end
 my_each(collection) do |i|
-  puts i
+  print i
 end
